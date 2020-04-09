@@ -1,4 +1,4 @@
-CEREATE TABLE bears(
+CEREATE TABLE bears (
   id INTEGER PRIMARY KEY
   name TEXT
   age INTEGER
